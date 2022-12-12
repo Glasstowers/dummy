@@ -1,3 +1,3 @@
 # course for dummies
 
-some description
+some description!
